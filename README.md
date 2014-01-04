@@ -12,7 +12,8 @@ Limitations
 The functionality should be very easy to enhance.
 Send a pull-request if you have something to contribute!
 
-The tool is not optimized for latency or throughput, do not use it for large-scale work.
+The tool is not optimized for latency or throughput, do not use it for large-scale work:
+It uses a brute-force approach with a full form lexicon stored in a hashmap.
 
 
 Examples
