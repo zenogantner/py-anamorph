@@ -67,7 +67,8 @@ The data files `morphy-export-substantives-NOM.tsv.gz` and `morphy-export-substa
 are derived from the
 [Morphy export file](http://www.danielnaber.de/morphologie/morphy-export-20110722.tar.gz)
 by Daniel Naber,
-which is licensed under [CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
+which is licensed under [CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
+See [http://www.danielnaber.de/morphologie/](http://www.danielnaber.de/morphologie/) for more information.
 
 
 
